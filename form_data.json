@@ -1,0 +1,15 @@
+{
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLScLUQInNG1Rj_do5YDMbtSPxWJp4oBNFfaSqy2xr9KQkxBI5g/viewform?pli=1&pli=1",
+  "file_name": "Screenshot 2026-11-16 at 23.09.45.png1",
+  "answers": {
+    "college": "Apne College Ka Naam",
+    "name": "Ansh",
+    "contact": "9876543210",
+    "gmail": "anshji1508@gmail.com",
+    "year": "2nd Year",
+    "gemini": "https://google.com",
+    "doc": "https://google.com"
+  },
+  "default_text": "Yes",
+  "default_paragraph": "Completed all steps successfully."
+}
